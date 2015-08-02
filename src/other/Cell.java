@@ -18,6 +18,7 @@ public class Cell {
 	public void setStatus(boolean status) {
 		this.status = status;
 	}
+
 	public int getValue() {
 		return value;
 	}

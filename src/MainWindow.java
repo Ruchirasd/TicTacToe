@@ -52,6 +52,8 @@ public class MainWindow extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
+		//Create buttons for each cell in the game
+		
 		JButton btn3_3 = new JButton("");
 		btn3_3.setBounds(380, 264, 83, 59);
 		contentPane.add(btn3_3);
